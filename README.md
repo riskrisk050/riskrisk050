@@ -85,8 +85,4 @@ Saya tertarik pada dua sisi sekaligus: **bagaimana sebuah produk terasa nyaman d
 
 ---
 
-<div align="center">
-  <i>"Terus belajar, terus bikin, terus perbaiki."</i>
-  <br/><br/>
-  <sub>Dibuat dengan ☕ dan rasa penasaran.</sub>
-</div>
+
